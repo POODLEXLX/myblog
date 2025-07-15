@@ -6,14 +6,14 @@
             <div class="author-info columns is-vcentered">
                 <div class="column">
                     <div class="columns is-vcentered is-mobile">
-                        {{ with .Site.Params.authorImage }}
-                        <div class="column is-narrow">
+                        <!-- {{ with .Site.Params.authorImage }} -->
+                        <!-- <div class="column is-narrow">
                             <img src="{{ . }}" class="author-image">
-                        </div>
-                        {{ end }}
+                        </div> -->
+                        <!-- {{ end }} -->
                         <div class="column">
-                            <p>{{ .Site.Params.Author }}</p>
-                            <p><time>{{ .PublishDate.Format "January 2, 2006" }}</time>
+                            <!-- <p>{{ .Site.Params.Author }}</p> -->
+                            <p><time>{{ .PublishDate.Format "2006-01-02" }}</time>
                             </p>
                         </div>
                     </div>

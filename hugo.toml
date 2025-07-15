@@ -41,16 +41,16 @@ name = "Categories"
 url = "/categories"
 
 [params.giscus]
-repo = "hotjuicew/blog"
-repoID = "R_kgDOHHQOuw"
-category = "Announcements"
-categoryID = "DIC_kwDOHHQOu84CWCQ3"
-mapping = "og:title"
-reactionsEnabled = "1"
-emitMetadata = "0"
-inputPosition = "bottom"
-lang = "en"
-loading = "lazy"
+# repo = "hotjuicew/blog"
+# repoID = "R_kgDOHHQOuw"
+# category = "Announcements"
+# categoryID = "DIC_kwDOHHQOu84CWCQ3"
+# mapping = "og:title"
+# reactionsEnabled = "1"
+# emitMetadata = "0"
+# inputPosition = "bottom"
+# lang = "en"
+# loading = "lazy"
 
 # Used for outputting the documentation (required).
 [outputs]
