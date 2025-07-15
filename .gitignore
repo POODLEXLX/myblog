@@ -1,0 +1,39 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Build artifacts
+/dist/
+/build/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sw?
+*.swo
+
+# Logs
+*.log
+
+# Dependency directories (if using npm or other tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Hugo environment file
+.env
+.env.*
+
+# Ignore deployment keys or other secrets
+*.pem
+*.key
