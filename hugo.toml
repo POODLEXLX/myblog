@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.fish-king.site/'
 languageCode = 'zh-CN'
 theme = "JuiceBar"
 title = 'My New Hugo Site'
@@ -9,22 +9,22 @@ description = "My site description"
 authorImage = "/images/profile.jpg"
 paginate = 5
 
-Title = "JuiceBar"
-content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
+Title = "fish-king"
+content = "I'm fish, nice to meet you(ˊ˘ˋ*)♡"
 imageUrl = "/images/avatar.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "Github"
-url = "https://github.com/hotjuicew"
+# url = "https://github.com/hotjuicew"
 [[params.social]]
 name = "telegram"
-url = "https://t.me/Hotjuice"
+# url = "https://t.me/Hotjuice"
 [[params.social]]
 name = "twitter"
-url = "https://twitter.com/hotjuicee"
+# url = "https://twitter.com/hotjuicee"
 [[params.social]]
 name = "email"
-url = "mailto:imjiaying@outlook.com"
+# url = "mailto:imjiaying@outlook.com"
 
 [taxonomies]
 category = "categories"
